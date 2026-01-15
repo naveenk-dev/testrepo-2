@@ -5,3 +5,7 @@
 .settings/
 .project
 .classpath
+*.exe
+*.jar
+drivers/
+lib/
